@@ -1,0 +1,15 @@
+Java Project: This project focuses on the use of Java to create a variety of applications or games. Some of the options include building a web crawler/scraper, recipe software, or simple video game.
+
+Prerequisites: Understanding of variables for text, data, and arithmetic; if statement comparisons and logic, methods with and without return values; loops; and the ability to code and plan simple programs. You'll need to be able to devote 4 hours outside of the CoderGirl Meet-up to work on the project.
+
+Mentors:
+
+Jenny Brown
+github: jennybrown8
+contact:
+
+Participants:
+
+name:
+github:
+contact:

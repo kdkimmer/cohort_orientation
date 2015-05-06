@@ -1,0 +1,15 @@
+CS50 focused project: This project is designed to incorporate the interests of the group to work on a project you would be truly invested in completing. Expect to work on a team of about 4-6 people and have 4-8 hours available outside of the CoderGirl meetup to work on the project.
+
+Prerequisites: In order for this project to be the best use of your time, you’ll need to have completed up to Problem Set 3 in CS50 and watched all Lectures through Week 6.
+
+Mentors:
+
+Ricky Ng
+github: dummey
+contact:
+
+Participants:
+
+name:
+github:
+contact:

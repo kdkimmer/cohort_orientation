@@ -1,0 +1,15 @@
+Web Development and Design: This project is focused on getting your personal website up and running and to create the LaunchCoderGirl Website! Other options include building an Adventure Game or a Javascript game.
+
+Prerequisites: Basic knowledge of HTML and CSS (Javascript is a bonus!) A great way to do this is to get through Lesson 12 at (freeCodeCamp.com). For more info check out the presentation and Helena's blog to get started! (https://girlbitsnbytes.wordpress.com/2015/04/14/get-thee-a-website/)
+
+Mentors:
+
+Helena Converse
+github: n3rdgir1
+twitter: n3rdgir1
+
+Participants:
+
+name:
+github:
+contact:
