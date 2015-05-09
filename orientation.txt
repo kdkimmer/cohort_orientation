@@ -1,4 +1,8 @@
-The orientations will cover version control, project planning, and how to effectively work on a team. The format will be a day long conference with workshops. There will be TWO dates offered, however, you only need to attend ONE. They will have the exact same content, but are offered on two different weekend days for your convenience.
+The orientations will cover version control, project planning, and how to 
+effectively work on a team. The format will be a day long conference with 
+workshops. There will be TWO dates offered, however, you only need to 
+attend ONE. They will have the exact same content, but are offered on 
+two different weekend days for your convenience.
 
 9:30-12:00: Team Process Workshop
 12:00-1:00: Lunch
