@@ -49,7 +49,7 @@ You'll need an invite for access to team collaboration areas (google groups and 
 
 We'll be shifting from BlueJ to Eclipse because it cooperates better for team projects.
 
-[Eclipse for JavaEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/lunasr2)
-
 [Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+[Eclipse for JavaEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/lunasr2)
 
