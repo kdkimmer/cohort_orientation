@@ -22,7 +22,7 @@ two different weekend days for your convenience.
 
 [Google Hangouts for screenshare](https://plus.google.com/hangouts)
 
-[Git command line reference](http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users)
+[Bash command line reference](http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users)
 
 [Git documentation](http://git-scm.com/doc)
 
