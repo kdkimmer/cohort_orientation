@@ -41,14 +41,15 @@ two different weekend days for your convenience.
 
 # Java Team URLs
 
-You'll need an invite for access to team collaboration areas.
+You'll need an invite for access to team collaboration areas (google groups and google drive).
 
 [Google Groups forum for Java project team](https://groups.google.com/forum/#!forum/codergirlstl-java-team-projects)
 
 [Google Drive folder for Java project team](https://drive.google.com/open?id=0B9p-nqiv5_gHfjgySVBmZllOZWduLU5wdWYxV2Rwc2VXMVcxNVFyZEUxcWw4OENPUmFYLWc&authuser=0)
 
+We'll be shifting from BlueJ to Eclipse because it cooperates better for team projects.
+
 [Eclipse for JavaEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/lunasr2)
 
 [Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-
 
