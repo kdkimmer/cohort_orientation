@@ -26,11 +26,11 @@ two different weekend days for your convenience.
 
 [Git documentation](http://git-scm.com/doc)
 
-If your computer doesn't have a built-in microphone, and you want to use Google Hangouts to screen share 
-and talk while you do, you'll need a headset.  More modern laptops come with built-in video camera
-and microphone, which work fine.  If you do need a headset, the [Microsoft 
+Google Hangout lets you talk while you screen share.  With newer laptops, the built-in microphone
+works fine.  Older laptops don't have a microphone, so you may need a headset to pick up your voice.
+If you do need a headset, the [Microsoft 
 Lifechat LX-3000](http://www.amazon.com/Microsoft-JUG-00001-LifeChat-LX-3000-Headset/dp/B000J4WPW8) 
-works fine.
+works well.
 
 
 # Web Team URLs
