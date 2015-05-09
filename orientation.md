@@ -10,12 +10,10 @@ two different weekend days for your convenience.
 
 1:00-4:00: Team Technicals and Hands-On Practice
 
+[Orientation Agenda](https://docs.google.com/document/d/1iRhxRcDN8FiXYau8gGbU2cIcTh2-0EXrP3dfeAQ9Ti0/edit?usp=sharing)
 
 
 # Useful URLs for Everybody
-
-
-[Orientation Agenda](https://docs.google.com/document/d/1iRhxRcDN8FiXYau8gGbU2cIcTh2-0EXrP3dfeAQ9Ti0/edit?usp=sharing)
 
 [Git Hub for project code](https://github.com/)
 
