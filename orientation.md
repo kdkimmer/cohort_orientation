@@ -14,6 +14,7 @@ two different weekend days for your convenience.
 
 
 # Useful URLs for Everybody
+[Download git software](http://git-scm.com/downloads)
 
 [Git Hub for project code](https://github.com/)
 
@@ -46,5 +47,8 @@ You'll need an invite for access to team collaboration areas.
 
 [Google Drive folder for Java project team](https://drive.google.com/open?id=0B9p-nqiv5_gHfjgySVBmZllOZWduLU5wdWYxV2Rwc2VXMVcxNVFyZEUxcWw4OENPUmFYLWc&authuser=0)
 
+[Eclipse for JavaEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/lunasr2)
+
+[Java SE Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
