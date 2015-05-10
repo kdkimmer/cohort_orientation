@@ -14,6 +14,8 @@ two different weekend days for your convenience.
 
 
 # Useful URLs for Everybody
+[Google Group for All Project Teams](http://groups.google.com/d/forum/codergirlstl-all-project-teams)
+
 [Download git software](http://git-scm.com/downloads)
 
 [Git Hub for project code](https://github.com/)
