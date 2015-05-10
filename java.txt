@@ -18,9 +18,9 @@ contact: jennybrown8@gmail.com
 
 Participants
 -------------
-name:
-github:
-email:
+name: Bobbi Nicole Schmidt
+github: BNicoleSchmidt
+email: the.ringwyrm@gmail.com
 
 name:
 github:
