@@ -43,7 +43,7 @@ works well.
 
 # CS50 Team URLs
 
-
+[Google Groups forum for CS50 project team](https://groups.google.com/forum/?hl=en#!forum/codergirlstl-cs50-team-projects)
 
 
 
