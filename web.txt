@@ -10,6 +10,6 @@ twitter: n3rdgir1
 
 Participants:
 
-name:
-github:
-contact:
+name:Kim Druessel 
+github:kdkimmer 
+contact:kdruessel@gmail.com
