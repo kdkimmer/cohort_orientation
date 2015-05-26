@@ -13,3 +13,7 @@ Participants:
 name:ANGELA ENGLISH
 github:angelamiza
 contact:
+
+name: KATIE AMES
+github: kames08
+contact: kt.m.ames@gmail.com
