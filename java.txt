@@ -22,9 +22,9 @@ name: Bobbi Nicole Schmidt
 github: BNicoleSchmidt
 email: the.ringwyrm@gmail.com
 
-name:
-github:
-email:
+name:Rachele Moresi
+github:RAMnomad
+email:ladyofnomads@hotmail.com
 
 name:
 github:
