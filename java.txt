@@ -30,9 +30,9 @@ name: Grace Karcher
 github: GraceKarcher
 email: gracekarcher14@gmail.com
 
-name:
-github:
-email:
+name: Shawna Climer
+github: shawnaClimer
+email: shawnaclimer@gmail.com
 
 name:
 github:
