@@ -17,3 +17,7 @@ contact:
 name: KATIE AMES
 github: kames08
 contact: kt.m.ames@gmail.com
+
+name: Kim Druessel
+github: kdkimmer
+contact: kdruessel@gmail.com
