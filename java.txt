@@ -18,21 +18,21 @@ contact: jennybrown8@gmail.com
 
 Participants
 -------------
-name:
-github:
-email:
+name: Bobbi Nicole Schmidt
+github: BNicoleSchmidt
+email: the.ringwyrm@gmail.com
 
-name:
-github:
-email:
+name:Rachele Moresi
+github:RAMnomad
+email:ladyofnomads@hotmail.com
 
-name:
-github:
-email:
+name: Grace Karcher
+github: GraceKarcher
+email: gracekarcher14@gmail.com
 
-name:
-github:
-email:
+name: Shawna Climer
+github: shawnaClimer
+email: shawnaclimer@gmail.com
 
 name:
 github:

@@ -8,15 +8,17 @@ time, you’ll need to have completed up to Problem Set 3 in CS50
 and watched all Lectures through Week 6.
 
 Mentors:
-
+-------------
 Ricky Ng
 github: dummey
 contact:
 
 Participants:
-
+-------------
 name:
 github:
 contact:
 
-
+name:
+github:
+contact:

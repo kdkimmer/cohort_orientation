@@ -14,6 +14,8 @@ two different weekend days for your convenience.
 
 
 # Useful URLs for Everybody
+[Google Group for All Project Teams](http://groups.google.com/d/forum/codergirlstl-all-project-teams)
+
 [Download git software](http://git-scm.com/downloads)
 
 [Git Hub for project code](https://github.com/)
@@ -41,7 +43,7 @@ works well.
 
 # CS50 Team URLs
 
-
+[Google Groups forum for CS50 project team](https://groups.google.com/forum/?hl=en#!forum/codergirlstl-cs50-team-projects)
 
 
 
